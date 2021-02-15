@@ -1,0 +1,22 @@
+{
+  "name": "personal_website",
+  "version": "1.0.0",
+  "description": "A personal website that will be used for marketing and learning. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelbazile/personal_website.git"
+  },
+  "author": "Michael Bazile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelbazile/personal_website/issues"
+  },
+  "homepage": "https://github.com/michaelbazile/personal_website#readme",
+  "dependencies": {
+    "graphql": "^15.5.0"
+  }
+}
